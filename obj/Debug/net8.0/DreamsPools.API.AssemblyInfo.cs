@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DreamsPools.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50fe7b592434aea8038690772057d1c39aa81a96")]
 [assembly: System.Reflection.AssemblyProductAttribute("DreamsPools.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DreamsPools.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
